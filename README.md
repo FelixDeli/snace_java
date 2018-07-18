@@ -1,2 +1,2 @@
 # snake_java
-java adnroid snace game project
+java adnroid snake game project
