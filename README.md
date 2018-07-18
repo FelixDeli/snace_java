@@ -1,2 +1,2 @@
 # snake_java
-java adnroid snake game project
+java android snake game project
